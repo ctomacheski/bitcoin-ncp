@@ -8,4 +8,4 @@ Authors:
 
 ## Instances
 
-This repository contains the randomly generated test instances in `./intances/random` and the parsed bitcoin blocks as graphs in `.instaces/bitcoin`.  
+This repository contains the randomly generated test instances in `./instances/random` and the parsed bitcoin blocks as graphs in `.instances/bitcoin`.  
