@@ -6,6 +6,10 @@ Authors:
 * Anolan Milanés: `anmi (at) himolde (dot) no`
 * Sebastián Urrutia: `seur (at) himolde (dot) no`
 
+## Algorithms
+
+[Plain CPLEX model](algorithms/cplex).
+
 ## Instances
 
-This repository contains the randomly generated test instances in `./instances/random` and the parsed bitcoin blocks as graphs in `./instances/bitcoin`.  
+This repository contains the [randomly generated test instances](instances/random) and the [parsed bitcoin blocks as graphs](instances/bitcoin).
